@@ -9,6 +9,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetanshum&show_icons=true&locale=en&layout=compact" alt="shwetanshum" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetanshum&show_icons=true&locale=en" alt="shwetanshum" /></p>
